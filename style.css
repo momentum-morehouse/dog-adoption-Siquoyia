@@ -1,0 +1,47 @@
+h1 {
+text-size-adjust: 10000;
+background-color: #004175;
+padding-top: 20px;
+border-bottom-style: double;
+border-bottom-color: #89DEEF;
+color:white;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    width: 3000px;
+    padding: 5px;
+    
+}
+
+img {
+
+    width: 50%;
+    height: auto;
+}
+
+.dog {
+    display: inline-block;
+    width: 100%;
+    height: 0%;
+    text-size-adjust: 50px;
+    
+}
+p {
+    height: 100px;
+    width: 100px;
+    background:white;
+    color: black;
+    display: inline;
+    
+  }
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    overflow: visible;
+
+   
+}
+
